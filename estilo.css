@@ -1,0 +1,97 @@
+body {
+	background-color: #ea9ca3;
+	background-image: url(fotos/fondito2.png);
+}
+
+#nosotros { 
+	background-color: #ea9ca3;
+	background-image: url(fotos/fondito3.png);
+	
+}
+
+#productosF { 
+	background-color: #ea9ca3;
+	background-image: url(fotos/fondito4.png);
+
+}
+
+#contactoF {
+	background-color: #ea9ca3;
+	background-image: url(fotos/fondito6.png);
+}
+
+#menucito { 
+	text-align: center;
+}
+
+#tituloPrincipal {  
+     text-align: center;
+	 color: white;
+	 font-family: Playfair-display;
+	 text-transform: uppercase; 
+	 font-size: 60px
+}
+
+#textoDelIndex { 
+	font-family: Playfair-display;
+	font-size: 30px;
+	text-align: center ;
+
+}
+ .titulos {
+	text-align: center;
+	font-family: 'Playfair Display SC', serif;
+	font-size: 45px;
+
+}
+
+#fotitosPersonal { 
+     background-color: white;
+     display: flex; 
+	 flex-direction: row;
+	 justify-content: space-evenly;
+	 
+}
+
+
+.pote { 
+     font-family: Garamond , Cambria;
+	 font-size: 25px;
+	 text-align: center;
+}
+
+
+.ubicaciones { 
+  display: flex; 
+	flex-direction: row;
+	justify-content: space-between
+}
+
+
+.menuPrinci { 
+    display: flex;
+	flex-direction: row; 
+	justify-content: space-evenly;
+}
+
+
+
+ .efectos {
+		width: 100px; height: 100px;
+		transition: all 2s;       
+	 }
+ .efectos:hover {
+		height: 200px; width: 200px;
+		background-color: rgb(136, 192, 187);
+	}
+	
+#fotosVeggies { 
+	display: flex;
+	flex-direction: row; 
+	justify-content: space-evenly;
+
+}
+
+
+	  
+	 
